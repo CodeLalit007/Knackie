@@ -8,7 +8,7 @@
 
 The summary of the main languages present on my discord : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Knackie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knackie&layout=compact)](https://github.com/Knackie/github-readme-stats)
 <!--
 **Knackie/Knackie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
