@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on networks & android project
-- 🌱 I’m currently learning IT in TELECOM Nancy
+- 🔭 I’m currently working on project for MBDA.
 - 🤔 I’m looking for help with any project on C++
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Knackie&show_icons=true&theme=radical) 
