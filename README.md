@@ -3,12 +3,19 @@
 - 🔭 I’m currently working on project for MBDA.
 - 🤔 I’m looking for help with any project on C++
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Knackie&show_icons=true&theme=radical) 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=Knackie&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=Knackie&show_icons=true&theme=radical">
+  </a>
+</p>
 
 The summary of the main languages present on my GitHub : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knackie&layout=compact)](https://github.com/Knackie/github-readme-stats)
-
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Knackie&layout=compact&theme=dark&hide_border=true)](https://github.com/Knackie/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knackie&layout=compact&theme=dark&hide_border=true)](https://github.com/Knackie/github-readme-stats">
+  </a>
+</p>
 
 **My languages and tools:**  
 
