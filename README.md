@@ -21,7 +21,7 @@ my projects are mainly carried out in : <code><img height="20" src="https://raw.
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=serial-dev&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Knackie&theme=react&background=0d1117&border=666">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
