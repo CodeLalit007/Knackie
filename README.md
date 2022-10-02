@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin](https://img.shields.io/badge/%20-mathieu%20dreyer-black?style=for-the-badge&color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff")](https://linkedin.com/in/mathieu-dreyer)
+
 - 🔭 I’m currently working on IT project for Groupe SII ;
 - 🤔 I’m looking for help with any project on C++ ;
 - 😄 I'm french.
