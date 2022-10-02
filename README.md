@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on project for MBDA ;
+- 🔭 I’m currently working on IT project for Groupe SII ;
 - 🤔 I’m looking for help with any project on C++ ;
 - 😄 I'm french.
 
